@@ -5,7 +5,7 @@ Do check that out here: https://github.com/julisa99/Lovebox/blob/master/Lovebox.
 Made this for my partner and had alot of fun building this. 
 
 
-## Project Sstatus
+## Project Status
 This project is still in development as i want to make use of FreeRTOS though it might not be essential.
 
 ## Project Requirments
